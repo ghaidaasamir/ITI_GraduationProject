@@ -34,7 +34,7 @@ link for install rasa platfrom  :https://rasa.com/docs/rasa/installation/
 ***
 
 * Yomna Ali : (https://github.com/YomnaAhmed97)
-*  Ghidaa Samir: (https://github.com/ghaidaasamir)
+* Ghaidaa Samir: (https://github.com/ghaidaasamir)
 * Asmaa Nabil : https://github.com/Asmaa98Nabil
 * Aya Elsawy : (https://github.com/AyaElsawyElghaysh)
 
